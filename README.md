@@ -56,14 +56,19 @@ Thomas High School was in the third "bin" ($631-645), but the removal of the 9th
 - Original Analysis
 
 ![Size Summary](/Resources/school_size_mod.PNG)
-
 - Adjusted Analysis
 
 ![Size Summary](/Resources/school_size_chal.PNG)
 
-
+Thomas High School, with 1635 students, would fit into the Medium category. As like the previous, no change to this analysis.
 #### Scores by Type
 - Original Analysis
+
+![Type Summary](/Resources/type_summary_mod.PNG)
 - Adjusted Analysis
+
+![Type Summary](/Resources/type_summary_chal.PNG)
+
+
 ## Summary
 Overall, the change in scores was minimal, highlighting the effectiveness of having a large data set. 
