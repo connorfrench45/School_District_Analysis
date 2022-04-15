@@ -42,6 +42,21 @@ This analysis also covered math and reading scores by grade, scores by school sp
 
 ![Math Scores by Grade](/Resources/math_scores_grade_chal.PNG) ![Reading Scores by Grade](/Resources/reading_scores_grade_chal.PNG)
 
+This is a perfect example of how the other sets of data weren't changed by the adjustment. All the numbers are exactly the same, save for a "nan" in the 9th grade column in the Thomas High School row.
+#### Scores by Spending
+- Original Analysis
 
+![Spending Summary](/Resources/spending_summary_mod.PNG)
+- Adjusted Analysis
+
+![Spending Summary](/Resources/spending_summary_chal.PNG)
+
+
+#### Scores by Size
+- Original Analysis
+- Adjusted Analysis
+#### Scores by Type
+- Original Analysis
+- Adjusted Analysis
 ## Summary
 Overall, the change in scores was minimal, highlighting the effectiveness of having a large data set. 
