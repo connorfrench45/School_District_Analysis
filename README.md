@@ -19,8 +19,16 @@ All the passing percentages were changed, though they were all changed marginall
 - The adjusted analysis:
 
 ![Adjusted School_Summary](/Resources/per_school_summary_chal.PNG)
+A lot of text and numbers, but the only changes are in Thomas High School's row. Again, the changes were marginal, not being more than 3 tenths in any column.
+#### - Thomas High School's Relative Performance
+Before the adjustment, Thomas High School had the second highest Overall Passing Percentage:
 
-#### - Thomas High School's performance
+![Original Top Schools](/Resources/top_schools_mod.PNG)
+
+Here are the top 5 schools based on Overall Passing Percentage after the adjustment:
+
+![Adjusted Top Schools](/Resources/top_schools_chal.PNG)
+
 
 #### - Student Analysis
 
