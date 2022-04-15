@@ -51,10 +51,17 @@ This is a perfect example of how the other sets of data weren't changed by the a
 
 ![Spending Summary](/Resources/spending_summary_chal.PNG)
 
-
+Thomas High School was in the third "bin" ($631-645), but the removal of the 9th grade scores did not change this analysis.
 #### Scores by Size
 - Original Analysis
+
+![Size Summary](/Resources/school_size_mod.PNG)
+
 - Adjusted Analysis
+
+![Size Summary](/Resources/school_size_chal.PNG)
+
+
 #### Scores by Type
 - Original Analysis
 - Adjusted Analysis
