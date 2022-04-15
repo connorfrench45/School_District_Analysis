@@ -5,7 +5,16 @@ After discovering evidence of academic dishonesty, the analysis made with PyCity
 ## Results
 The district analysis was extensive, and changing the data will have a wide-ranging ripple effect. Listed below are the different analyses and how they changed:
 #### - District Summary
+- The original analysis:
+![](/Resources/district_summary_mod.png)
+- The adjusted analysis:
+![](/Resources/district_summary_chal.png)
+
 #### - School Summary
+
 #### - Thomas High School's performance
+
 #### - Student Analysis
+
 ## Summary
+Overall, the change in scores was minimal, highlighting the effectiveness of having a large data set. 
