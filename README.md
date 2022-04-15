@@ -69,6 +69,12 @@ Thomas High School, with 1635 students, would fit into the Medium category. As l
 
 ![Type Summary](/Resources/type_summary_chal.PNG)
 
-
+Thomas High School is a charter school. As with the last two, no change in the analysis. This would make sense, as each of the last three analyses were grouping larger groups, and the larger the group, or "bin," the less the adjustment would affect the data.
 ## Summary
-Overall, the change in scores was minimal, highlighting the effectiveness of having a large data set. 
+Overall, the change in scores was minimal, highlighting the effectiveness of having a large data set. The changes in the overall analysis were in four places. Those were:
+- District Summary
+- School Summary
+- Relative Perfomance
+- Scores by Grade
+
+The Scores by Grade wasn't changed aside from the removal of Thomas High School's Freshman data, resulting in a "nan" output in their respective data frames. Aside from the Scores by Grade, the changes in the results were less than a few tenths at most, not enough to draw any new conclusions from the original analysis. 
